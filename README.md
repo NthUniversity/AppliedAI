@@ -1,6 +1,8 @@
 # AppliedAI
 NthU Applied AI Webinar Companion
 
+provided as-is for example purposes only
+
 ## pip installations
 LangChain driven examples
 
