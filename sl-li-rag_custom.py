@@ -64,7 +64,7 @@ def generate_response(userInput):
 # Streamlit Stuff
 # Config
 st.set_page_config(
-    page_title = "Basic RAG with LlamaIndex")
+    page_title = "LlamaIndex RAG-Custom")
 
 # Sidebar
 st.sidebar.image("images/NthU.png", use_container_width=True)
